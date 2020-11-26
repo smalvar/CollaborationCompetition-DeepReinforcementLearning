@@ -3,8 +3,6 @@
 To solve the problem, I've used the deep deterministic policy gradient (DDPG) adjusted to a multi-agent case. The task is episodic,
 and in order to solve the environment, the agent must get an average score of 0.5. The algorithm applies noise.
 
-and applies noise to its actions to add stochasticity. My hyperparameters are as follows:
-
 ![robot](https://im3.ezgif.com/tmp/ezgif-3-f48d4f7c4653.gif)
 
 ## Method: Deep Deterministic Policy Gradient (DDPG)
