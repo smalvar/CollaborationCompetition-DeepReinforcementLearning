@@ -54,7 +54,7 @@ SIGMA = 0.1
 
 The result is shown in the figure. The environment is solved in 466 episodes, average score of 30.01. 
 
-![score](./plot_score.png)
+![score](./scores_plot.png)
 
 ## Improvement
 
